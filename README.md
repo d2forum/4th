@@ -1,6 +1,6 @@
 # 第四届D2前端技术论坛「蜕变·成长」
 
-![https://gw.alicdn.com/tfs/TB126USq.z1gK0jSZLeXXb9kVXa-3402-4535.png](https://gw.alicdn.com/tfs/TB126USq.z1gK0jSZLeXXb9kVXa-3402-4535.png)
+![https://gw.alicdn.com/tfs/TB126USq.z1gK0jSZLeXXb9kVXa-3402-4535.png_800x800](https://gw.alicdn.com/tfs/TB126USq.z1gK0jSZLeXXb9kVXa-3402-4535.png_800x800)
 
 ## 精彩分享
 
